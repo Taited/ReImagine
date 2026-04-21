@@ -5,9 +5,7 @@ Official repository for **ReImagine: Rethinking Controllable High-Quality Human 
 ## Demo Video
 
 <p align="center">
-  <a href="https://youtu.be/M5J1Yfp778o">
-    <img src="https://img.youtube.com/vi/M5J1Yfp778o/maxresdefault.jpg" alt="ReImagine Demo Video" width="80%">
-  </a>
+  <iframe width="80%" height="315" src="https://www.youtube.com/embed/M5J1Yfp778o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <p align="center">
