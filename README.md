@@ -68,6 +68,10 @@ The code, pretrained weights, and dataset resources will be fully uploaded and o
 
 We are still organizing the repository; updates will land here as each item is ready.
 
+## Acknowledgments
+
+This repository’s implementation is **based on** [DiffSynth Studio](https://github.com/modelscope/diffsynth-studio) (ModelScope). We thank the authors and maintainers for releasing their work. The upstream project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
 ## Citation
 
 If you find this project useful, please consider citing our paper:
