@@ -5,15 +5,17 @@
 **ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis**
 
 <p>
-  <a href="https://arxiv.org/abs/2604.19720"><img src="https://img.shields.io/badge/Paper-arXiv%3A2604.19720-b31b1b?logo=arxiv&logoColor=white&style=flat" alt="Paper on arXiv" /></a>
-  <a href="https://keruzheng.github.io/ReImagine-Project/"><img src="https://img.shields.io/badge/Project-Website-6366f1?logo=googlechrome&logoColor=white&style=flat" alt="Project page" /></a>
-  <a href="https://taited-reimagine.hf.space/"><img src="https://img.shields.io/badge/Demo-Hugging%20Face-ffd21e?logo=huggingface&logoColor=000&style=flat" alt="Hugging Face Space" /></a>
+  <a href="https://arxiv.org/abs/2604.19720"><img src="https://img.shields.io/badge/Paper-arXiv%3A2604.19720-15803d?logo=arxiv&logoColor=white&style=flat" alt="Paper on arXiv" /></a>
+  <a href="https://keruzheng.github.io/ReImagine-Project/"><img src="https://img.shields.io/badge/Project-Website-4f46e5?logo=googlechrome&logoColor=white&style=flat" alt="Project page" /></a>
+  <a href="https://taited-reimagine.hf.space/"><img src="https://img.shields.io/badge/Demo-Hugging%20Face-ffde59?logo=huggingface&logoColor=78350f&style=flat" alt="Hugging Face Space" /></a>
   <a href="https://www.youtube.com/watch?v=M5J1Yfp778o"><img src="https://img.shields.io/badge/Video-YouTube-ff0000?logo=youtube&logoColor=white&style=flat" alt="Demo on YouTube" /></a>
 </p>
 
 <a href="https://keruzheng.github.io/ReImagine-Project/">
   <img src="assets/teaser.png" alt="ReImagine — controllable human video generation via image-first synthesis" width="60%" />
 </a>
+
+**[Try it online Here](https://taited-reimagine.hf.space/)**
 
 </div>
 
@@ -45,12 +47,13 @@ This repository hosts the official implementation of **ReImagine**, a framework 
 </p>
 
 <p align="center">
-  <strong><a href="https://www.youtube.com/watch?v=M5J1Yfp778o&autoplay=1">Watch the demo on YouTube</a></strong> (autoplay on open)
+  <a href="https://www.youtube.com/watch?v=M5J1Yfp778o&autoplay=1" title="Play demo on YouTube (autoplay)">
+    <img src="https://img.shields.io/badge/YouTube-Watch%20the%20demo%20%28autoplay%29-ff0000?logo=youtube&logoColor=white&style=flat" alt="Watch the demo on YouTube" />
+  </a>
+  <br />
+  <sub>Autoplay on open</sub>
 </p>
 
-## Try it online
-
-**[Launch the Hugging Face Space →](https://taited-reimagine.hf.space/)**
 
 ## Release plan
 
