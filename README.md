@@ -1,8 +1,38 @@
+<div align="center">
+
+<a href="https://keruzheng.github.io/ReImagine-Project/">
+  <img src="assets/banner.svg" alt="ReImagine — controllable human video generation via image-first synthesis" width="100%" />
+</a>
+
 # ReImagine
 
-Official repository for **ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis**.
+**ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis**
 
-## Demo Video
+<p>
+  <a href="https://arxiv.org/abs/2604.19720"><img src="https://img.shields.io/badge/Paper-arXiv%3A2604.19720-b31b1b?logo=arxiv&logoColor=white&style=flat" alt="Paper on arXiv" /></a>
+  <a href="https://keruzheng.github.io/ReImagine-Project/"><img src="https://img.shields.io/badge/Project-Website-6366f1?logo=googlechrome&logoColor=white&style=flat" alt="Project page" /></a>
+  <a href="https://taited-reimagine.hf.space/"><img src="https://img.shields.io/badge/Demo-Hugging%20Face-ffd21e?logo=huggingface&logoColor=000&style=flat" alt="Hugging Face Space" /></a>
+  <a href="https://www.youtube.com/watch?v=M5J1Yfp778o"><img src="https://img.shields.io/badge/Video-YouTube-ff0000?logo=youtube&logoColor=white&style=flat" alt="Demo on YouTube" /></a>
+</p>
+
+</div>
+
+## Overview
+
+This repository hosts the official implementation of **ReImagine**, a framework for controllable high-quality human video generation via **image-first synthesis**. For more context, see the [paper on arXiv](https://arxiv.org/abs/2604.19720) and the [project website](https://keruzheng.github.io/ReImagine-Project/).
+
+## Quick links
+
+| | |
+| --- | --- |
+| **arXiv** | [ReImagine (arXiv:2604.19720)](https://arxiv.org/abs/2604.19720) |
+| **Project page** | [Qualitative results & details](https://keruzheng.github.io/ReImagine-Project/) |
+| **Interactive demo** | [Hugging Face Space](https://taited-reimagine.hf.space/) |
+| **Dataset** | *Placeholder — add the public dataset or download page URL when available.* |
+
+*The dataset row above is a TBA placeholder; replace the italic text with a markdown link (e.g. Hugging Face Datasets, Zenodo, or your project page) at release time.*
+
+## Demo video
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=M5J1Yfp778o&autoplay=1" title="Play demo on YouTube">
@@ -15,26 +45,14 @@ Official repository for **ReImagine: Rethinking Controllable High-Quality Human 
 </p>
 
 <p align="center">
-  <strong><a href="https://www.youtube.com/watch?v=M5J1Yfp778o&autoplay=1">Watch the Demo Video on YouTube (with autoplay)</a></strong>
+  <strong><a href="https://www.youtube.com/watch?v=M5J1Yfp778o&autoplay=1">Watch the demo on YouTube</a></strong> (autoplay on open)
 </p>
 
-## Overview
+## Try it online
 
-This repository hosts the official implementation of **ReImagine**, a framework for controllable high-quality human video generation via image-first synthesis.
+**[Launch the Hugging Face Space →](https://taited-reimagine.hf.space/)**
 
-## Project Page
-
-For qualitative results, visualizations, and more details about the model, please visit the project homepage:
-
-[https://keruzheng.github.io/ReImagine-Project/](https://keruzheng.github.io/ReImagine-Project/)
-
-## Try It Online
-
-**Try the Hugging Face Space demo here:**
-
-[https://taited-if-human.hf.space/](https://taited-if-human.hf.space/)
-
-## Release Plan
+## Release plan
 
 The code, pretrained weights, and dataset resources will be fully uploaded and open-sourced before **May 1, 2026**.
 
@@ -45,7 +63,7 @@ The code, pretrained weights, and dataset resources will be fully uploaded and o
 - [ ] Dataset release
 - [ ] Documentation and usage instructions
 
-Please stay tuned. We are working on organizing the repository and will complete the release as soon as possible.
+We are still organizing the repository; updates will land here as each item is ready.
 
 ## Citation
 
