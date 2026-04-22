@@ -1,9 +1,5 @@
 <div align="center">
 
-<a href="https://keruzheng.github.io/ReImagine-Project/">
-  <img src="assets/banner.svg" alt="ReImagine — controllable human video generation via image-first synthesis" width="100%" />
-</a>
-
 # ReImagine
 
 **ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis**
@@ -14,6 +10,10 @@
   <a href="https://taited-reimagine.hf.space/"><img src="https://img.shields.io/badge/Demo-Hugging%20Face-ffd21e?logo=huggingface&logoColor=000&style=flat" alt="Hugging Face Space" /></a>
   <a href="https://www.youtube.com/watch?v=M5J1Yfp778o"><img src="https://img.shields.io/badge/Video-YouTube-ff0000?logo=youtube&logoColor=white&style=flat" alt="Demo on YouTube" /></a>
 </p>
+
+<a href="https://keruzheng.github.io/ReImagine-Project/">
+  <img src="assets/teaser.png" alt="ReImagine — controllable human video generation via image-first synthesis" width="60%" />
+</a>
 
 </div>
 
