@@ -2,21 +2,14 @@
 
 # ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis
 
-<p>
-  <a href="https://arxiv.org/abs/2604.19720">
-    <img src="https://img.shields.io/badge/Paper-arXiv%3A2604.19720-15803d?logo=arxiv&logoColor=white&style=flat" alt="Paper on arXiv" />
-  </a>
-  <a href="https://keruzheng.github.io/ReImagine-Project/">
-    <img src="https://img.shields.io/badge/Project-Website-4f46e5?logo=googlechrome&logoColor=white&style=flat" alt="Project page" />
-  </a>
-  <a href="https://taited-reimagine.hf.space/">
-    <img src="https://img.shields.io/badge/Demo-Hugging%20Face-ffb900?logo=huggingface&logoColor=78350f&style=flat" alt="Hugging Face Space" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=M5J1Yfp778o">
-    <img src="https://img.shields.io/badge/Video-YouTube-ff0000?logo=youtube&logoColor=white&style=flat" alt="Demo on YouTube" />
-  </a>
-</p>
+[![Website](https://img.shields.io/badge/Website-Project%20Page-1a73e8?logo=googlechrome&logoColor=white)](https://keruzheng.github.io/ReImagine-Project/)
+[![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2604.19720)
+[![Hugging Face Space](https://img.shields.io/badge/🤗%20Hugging%20Face%20-Space-ffb800)](https://taited-reimagine.hf.space/)
+[![Hugging Face Model](https://img.shields.io/badge/🤗%20Hugging%20Face%20-Model-22c55e)](https://huggingface.co/taited/ReImagine-Pretrained)
+[![YouTube](https://img.shields.io/badge/YouTube-Video-ff0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=M5J1Yfp778o)
+[![License](https://img.shields.io/badge/License-Apache--2.0-929292)](https://www.apache.org/licenses/LICENSE-2.0)
 
+***
 
 <a href="https://keruzheng.github.io/ReImagine-Project/">
   <img src="assets/teaser.png" alt="ReImagine — controllable human video generation via image-first synthesis" width="60%" />
